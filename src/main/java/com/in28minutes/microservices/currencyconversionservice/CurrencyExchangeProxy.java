@@ -1,0 +1,4 @@
+package com.in28minutes.microservices.currencyconversionservice;
+
+public interface CurrencyExchangeProxy {
+}
