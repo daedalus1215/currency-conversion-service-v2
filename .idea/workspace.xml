@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7c64d07-17ed-492e-b4f6-c30b70483eb9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules/currency-conversion-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/currency-conversion-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/microservices/currencyconversionservice/RestTemplateConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/microservices/currencyconversionservice/CurrencyConversionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/microservices/currencyconversionservice/CurrencyConversionController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/microservices/currencyconversionservice/CurrencyConversionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/microservices/currencyconversionservice/CurrencyConversionController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +132,7 @@
       <workItem from="1688816068888" duration="596000" />
       <workItem from="1688816706386" duration="56000" />
       <workItem from="1688816777317" duration="4833000" />
-      <workItem from="1688908496941" duration="14405000" />
+      <workItem from="1688908496941" duration="15530000" />
     </task>
     <servers />
   </component>
