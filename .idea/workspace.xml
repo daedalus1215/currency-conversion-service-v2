@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7c64d07-17ed-492e-b4f6-c30b70483eb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency-conversion-service-1.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_3_1_2_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_3_1_2_SNAPSHOT.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_3_1_2_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_3_1_2_SNAPSHOT.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_3_1_2_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_3_1_2_SNAPSHOT.xml" afterDir="false" />
@@ -26,9 +22,17 @@
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_3_1_2_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_3_1_2_SNAPSHOT.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_3_1_2_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_3_1_2_SNAPSHOT.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_3_1_2_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_3_1_2_SNAPSHOT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_6_1_2_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_6_1_2_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_6_1_2_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_6_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/currency-conversion-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/currency-conversion-service.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/microservices/currencyconversionservice/CurrencyConversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/microservices/currencyconversionservice/CurrencyConversion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/microservices/currencyconversionservice/CurrencyConversionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/microservices/currencyconversionservice/CurrencyConversionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/microservices/currencyconversionservice/CurrencyConversionServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/microservices/currencyconversionservice/CurrencyConversionServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/microservices/currencyconversionservice/CurrencyExchangeProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/microservices/currencyconversionservice/CurrencyExchangeProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/microservices/currencyconversionservice/RestTemplateConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/microservices/currencyconversionservice/RestTemplateConfiguration.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,11 +76,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/laurenceadams/Downloads/currency-conversion-service/src/main/java/com/in28minutes/microservices/currencyconversionservice",
+    "last_opened_file_path": "/Users/laurenceadams/programming/microservices-project/currency-conversion-service",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.18111111",
     "project.structure.side.proportion": "0.2",
@@ -87,6 +92,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/java/com/in28minutes/microservices/currencyconversionservice" />
     </key>
   </component>
@@ -154,7 +160,8 @@
       <workItem from="1688816706386" duration="56000" />
       <workItem from="1688816777317" duration="4833000" />
       <workItem from="1688908496941" duration="15530000" />
-      <workItem from="1689623154732" duration="592000" />
+      <workItem from="1689623154732" duration="2946000" />
+      <workItem from="1689793274751" duration="2130000" />
     </task>
     <servers />
   </component>

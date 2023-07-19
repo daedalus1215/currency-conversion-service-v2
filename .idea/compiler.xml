@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="currency-conversion-service" target="18" />
+      <module name="currency-conversion-service" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
